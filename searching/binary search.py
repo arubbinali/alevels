@@ -1,6 +1,6 @@
 """
 function `bubble_sort` from `sorting/bubble sort.py` (https://github.com/arubbinali/alevels/blob/main/sorting/bubble%20sort.py)
- to sort the list sent to the function `binary_search` as an argument
+to sort the list sent to the function `binary_search` as an argument
 """
 def bubble_sort(numbers):
     for _ in range(len(numbers)):
