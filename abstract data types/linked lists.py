@@ -1,4 +1,4 @@
-#linked list
+#basic linked list with append and display
 class Node():
     def __init__(self, element):
         self.element = element
