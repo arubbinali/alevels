@@ -1,3 +1,6 @@
+#
+from bubblesort.py import bubble_sort
+
 #binary search
 def binary_search(unsorted_numbers, number):
     numbers = bubble_sort(unsorted_numbers)
