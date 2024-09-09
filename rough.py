@@ -11,3 +11,4 @@ def Readwords(file_name):
         file_data = file.read()
     WordArray = file_data.strip().split()
     number_of_answers = len(WordArray)
+
