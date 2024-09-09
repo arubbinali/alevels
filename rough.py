@@ -12,3 +12,5 @@ def Readwords(file_name):
     WordArray = file_data.strip().split()
     number_of_answers = len(WordArray)
 
+#1b
+choice = input("Enter easy/medium/hard:   ")
