@@ -1,3 +1,3 @@
-class ReadWords(self, file_name):
-    x = open(file_na
-
+def ReadWords(file_name):
+    File = open(file_name, 'r')
+    WordArray = []
