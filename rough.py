@@ -15,3 +15,4 @@ def Readwords(file_name):
 #1b
 choice = input("Enter easy/medium/hard:   ")
 ReadWords(f"{choice.capitalize()}.txt")
+
