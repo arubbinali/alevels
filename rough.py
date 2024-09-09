@@ -14,5 +14,5 @@ def Readwords(file_name):
 
 #1b
 choice = input("Enter easy/medium/hard:   ")
-print(choice.capitalize)
+print(choice.capitalize())
 #ReadWords(choice)
