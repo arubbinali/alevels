@@ -1,3 +1,4 @@
+#1a
 def ReadWords(file_name):
     file = open(file_name, 'r')
     file_data = file.read()
